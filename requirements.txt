@@ -11,3 +11,4 @@ python-dotenv==1.0.0
 bleach==6.0.0
 email-validator==2.0.0
 gunicorn==21.2.0
+setuptools
